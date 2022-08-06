@@ -1,6 +1,7 @@
 <template>
-  <div>
-    <button class="btn">Hello daisyUI</button>
+  <div class="prose p-8">
+    <h1>nuxt-ore</h1>
+    <p>Content</p>
   </div>
 </template>
 <script setup>
