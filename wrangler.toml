@@ -1,0 +1,6 @@
+name = "nuxt-ore"
+compatibility_date = "2022-08-06"
+main=".output/server/index.mjs"
+
+[site]
+bucket = '.output/public'
